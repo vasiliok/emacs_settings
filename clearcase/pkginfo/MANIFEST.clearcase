@@ -1,0 +1,11 @@
+pkginfo/MANIFEST.clearcase
+lisp/clearcase/ChangeLog
+lisp/clearcase/_pkg.el
+lisp/clearcase/auto-autoloads.el
+lisp/clearcase/auto-autoloads.elc
+lisp/clearcase/clearcase.el
+lisp/clearcase/clearcase.elc
+lisp/clearcase/custom-load.el
+lisp/clearcase/custom-load.elc
+info/clearcase.info
+man/clearcase/clearcase.texi

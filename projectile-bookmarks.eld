@@ -1,0 +1,1 @@
+("/devops_bulk_upgrade/scripts/genesys_hotfix/" "~/")

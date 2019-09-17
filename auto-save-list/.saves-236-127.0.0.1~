@@ -1,0 +1,12 @@
+/devops_bulk_upgrade/scripts/genesys_hotfix/components/ocs/do_upgrade.py
+/devops_bulk_upgrade/scripts/genesys_hotfix/components/ocs/#do_upgrade.py#
+/devops_bulk_upgrade/scripts/genesys_hotfix/helpers/h_common.py
+/devops_bulk_upgrade/scripts/genesys_hotfix/helpers/#h_common.py#
+/devops_bulk_upgrade/scripts/genesys_hotfix/components/ocs/do_rollback.py
+/devops_bulk_upgrade/scripts/genesys_hotfix/components/ocs/#do_rollback.py#
+/devops_bulk_upgrade/scripts/genesys_hotfix/components/ocs/ocs_storage.py
+/devops_bulk_upgrade/scripts/genesys_hotfix/components/ocs/#ocs_storage.py#
+/devops_bulk_upgrade/scripts/genesys_hotfix/run_upgrade.py
+/devops_bulk_upgrade/scripts/genesys_hotfix/#run_upgrade.py#
+/devops_bulk_upgrade/scripts/genesys_hotfix/components/ocs/ocs_storage.py
+/devops_bulk_upgrade/scripts/genesys_hotfix/components/ocs/#ocs_storage.py#

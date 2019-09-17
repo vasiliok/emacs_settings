@@ -1,0 +1,14 @@
+/devops_bulk_upgrade/scripts/genesys_hotfix/notes.txt
+/devops_bulk_upgrade/scripts/genesys_hotfix/#notes.txt#
+/devops_bulk_upgrade/scripts/genesys_hotfix/components/ocs/do_rollback.py
+/devops_bulk_upgrade/scripts/genesys_hotfix/components/ocs/#do_rollback.py#
+/devops_bulk_upgrade/scripts/genesys_hotfix/helpers/h_common.py
+/devops_bulk_upgrade/scripts/genesys_hotfix/helpers/#h_common.py#
+/devops_bulk_upgrade/scripts/genesys_hotfix/run_rollback.py
+/devops_bulk_upgrade/scripts/genesys_hotfix/#run_rollback.py#
+/devops_bulk_upgrade/scripts/genesys_hotfix/components/ocs/do_upgrade.py
+/devops_bulk_upgrade/scripts/genesys_hotfix/components/ocs/#do_upgrade.py#
+/devops_bulk_upgrade/scripts/genesys_hotfix/helpers/bu_class.py
+/devops_bulk_upgrade/scripts/genesys_hotfix/helpers/#bu_class.py#
+/usr/local/share/emacs/25.1/lisp/loaddefs.el
+/usr/local/share/emacs/25.1/lisp/#loaddefs.el#

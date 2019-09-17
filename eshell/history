@@ -1,0 +1,13 @@
+ls
+cd ~
+ls
+ls
+mc
+ls -la
+cd .emacs.d/
+;s
+ls
+ls -la
+ll
+telent localhost 5555
+telnet localhost 5555
