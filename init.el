@@ -169,7 +169,7 @@
 
 (add-to-list 'load-path "~/.emacs.d/bookmark-plus" "~/.emacs.d/realgud-master")
 (load "bookmark+.el")
-(load "realgud.el")
+(load "~/.emacs.d/realgud-master/realgud.el")
 
 ;;(require 'rtags)
 ;;(setq rtags-path "/export/home/valeshec/src/rtags.build/bin")
